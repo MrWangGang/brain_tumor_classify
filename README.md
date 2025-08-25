@@ -1,4 +1,5 @@
 # 脑肿瘤分类
+# 因数据集涉及到隐私,如需要请联系wanggang userbean@outlook.com
 <img width="1456" height="1464" alt="image" src="https://github.com/user-attachments/assets/610a1522-e5ec-41a9-945b-ff4e9fc803af" />
 
 
